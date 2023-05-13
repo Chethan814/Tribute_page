@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(255, 251, 233);
+  margin: 5px;
+  padding: 5px;
+}
+
+img {
+  width: 400px;
+  height: 400px;
+}
+
+#photo {
+  text-align: center;
+  margin: 10px;
+}
+
+#main-heading {
+  text-align: center;
+  margin-top: 15px;
+  color: rgb(193, 154, 107);
+  
+}
+
+#quote {
+  text-align: center;
+  color: rgb(193, 154, 107);
+  border: rgb(193, 154, 107) double 5px;
+  margin-bottom: auto;
+  
+}
