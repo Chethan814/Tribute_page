@@ -1,2 +1,2 @@
 # Tribute_page
-This is my first web project
+on Bhagat singh https://chethan814.github.io/Tribute_page/
